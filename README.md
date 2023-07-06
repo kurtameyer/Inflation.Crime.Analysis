@@ -1,6 +1,6 @@
-# Inflation.Crime.Analysis
+# Inflation Crime Correlation Analysis Dashboard
 
-This project was originally a group project written in R for my Statistics and Probability course taken Winter quarter 2023. I've reworked the data loading and cleaning portion of it in a Jupyter notebook and am turning it into a dashboard using Plotly and Dash. 
+This project was originally a group project written in R for my Statistics and Probability course taken Winter quarter 2023. I've reworked the data cleaning and loading portion of it in Jupyter. I then turned it into a dashboard app using Plotly and Dash. I plan on deploying the app on AWS. 
 
 
 
