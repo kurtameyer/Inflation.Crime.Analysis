@@ -1,6 +1,6 @@
 # Inflation.Crime.Analysis
 
-This project was originally a group project written in R for my Statistics and Probability course taken Winter quarter 2023. I've reworked it in Python.
+This project was originally a group project written in R for my Statistics and Probability course taken Winter quarter 2023. I've reworked the data loading and cleaning portion of it in a Jupyter notebook and am turning it into a dashboard using Plotly and Dash. 
 
 
 
