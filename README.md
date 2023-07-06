@@ -31,4 +31,4 @@ Main Features of the Data Sets
 We will first have to load the datasets and perform data cleaning. 
 
 Rape statistics cannot be trusted, as prior to 2016, the FBI included only female-reported rapes, and from 2016 forward, they included both male and female-reported rapes. Therefore, we will not use it for our analysis, as it shows a massive jump in reports.
-![image](https://github.com/kurtameyer/Inflation.Crime.Analysis/assets/107722456/2e780c4b-9338-4969-9335-750c75811e1d)
+
