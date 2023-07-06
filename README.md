@@ -28,10 +28,6 @@ We will first have to load the datasets and perform data cleaning.
 
 Rape statistics cannot be trusted, as prior to 2016, the FBI included only female-reported rapes, and from 2016 forward, they included both male and female-reported rapes. Therefore, we will not use it for our analysis, as it shows a massive jump in reports.
 
-fred.stlouisfed.org/
-cde.ucr.cjis.gov/
-www.statista.com
-www.disastercenter.com/
 
 
 [1]: https://fred.stlouisfed.org/
