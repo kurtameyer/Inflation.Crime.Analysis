@@ -21,10 +21,6 @@ We based our research on data obtained from the St. Louis Federal Reserve [1] fo
 As for crime rates, as well as types of crime, we obtained this information from the FBI Uniform Crime Reporting [2] dataset, which was supplemented with data obtained through Statista [3], for which we have access thanks to our student access through the University of Denver. 
 Unfortunately, the FBI datasets are split by year, which would take too much time to put everything together. Fortunately, we could use disaster center [4], which presents the same information already gathered.
 
-[1]: https://fred.stlouisfed.org/
-[2]: https://cde.ucr.cjis.gov/
-[3]: https://www.statista.com
-[4]: https://www.disastercenter.com/
 
 Main Features of the Data Sets
 
@@ -32,3 +28,8 @@ We will first have to load the datasets and perform data cleaning.
 
 Rape statistics cannot be trusted, as prior to 2016, the FBI included only female-reported rapes, and from 2016 forward, they included both male and female-reported rapes. Therefore, we will not use it for our analysis, as it shows a massive jump in reports.
 
+
+[1]: https://fred.stlouisfed.org/
+[2]: https://cde.ucr.cjis.gov/
+[3]: https://www.statista.com
+[4]: https://www.disastercenter.com/
