@@ -3,7 +3,7 @@
 
 
 
-**This project was originally a group project written in R for my Statistics and Probability course taken Winter quarter 2023. The original description is below. I've reworked the data cleaning and loading portion of it in Jupyter. I then turned it into a dashboard app using Plotly and Dash including basic line plots, qq plots, trend plots, and correlation tests. I plan on deploying the app on AWS. **
+**This project was originally a group project written in R for my Statistics and Probability course taken Winter quarter 2023. The original description is below. I've reworked the data cleaning and loading portion of it in Jupyter. I then turned it into a dashboard app using Plotly and Dash including basic line plots, qq plots, trend plots of crime stats vs inflation, and correlation tests. I plan on deploying the app on AWS. **
 
 
 
