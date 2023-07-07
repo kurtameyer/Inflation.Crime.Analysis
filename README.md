@@ -3,7 +3,7 @@
 
 
 
-This project was originally a group project written in R for my Statistics and Probability course taken Winter quarter 2023. I've reworked the data cleaning and loading portion of it in Jupyter. I then turned it into a dashboard app using Plotly and Dash. I plan on deploying the app on AWS. 
+**This project was originally a group project written in R for my Statistics and Probability course taken Winter quarter 2023. The original description is below. I've reworked the data cleaning and loading portion of it in Jupyter. I then turned it into a dashboard app using Plotly and Dash. I plan on deploying the app on AWS. **
 
 
 
